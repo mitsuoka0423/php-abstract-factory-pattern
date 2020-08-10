@@ -27,3 +27,4 @@ $ php Driver.php table
 
 # Class Diagram
 
+<img src="https://github.com/tmitsuoka0423/php-abstract-factory-pattern/raw/master/class-diagram.png" />
