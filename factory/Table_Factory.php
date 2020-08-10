@@ -1,5 +1,11 @@
 <?php
 
+require_once('./item/Link.php');
+require_once('./item/Tray.php');
+require_once('./item/Page.php');
+require_once('./item/Table_Link.php');
+require_once('./item/Table_Tray.php');
+require_once('./item/Table_Page.php');
 
 class Table_Factory extends Factory
 {

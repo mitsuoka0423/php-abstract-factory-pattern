@@ -1,7 +1,7 @@
 <?php
 
 
-class List_Page extends Page
+class Table_Page extends Page
 {
 	public function __construct($title, $author)
 	{

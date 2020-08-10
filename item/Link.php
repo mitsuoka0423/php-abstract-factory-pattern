@@ -1,5 +1,6 @@
 <?php
 
+require_once('./item/Item.php');
 
 abstract class Link extends Item
 {
